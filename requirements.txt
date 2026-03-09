@@ -6,4 +6,5 @@ nltk
 spacy
 torch
 transformers
-tensorflow
+tensorflow==2.15.0
+
