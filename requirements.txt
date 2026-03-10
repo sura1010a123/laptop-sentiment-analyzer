@@ -3,8 +3,5 @@ pandas
 numpy
 scikit-learn
 nltk
-spacy
-torch
-transformers
-tensorflow==2.16.1
+
 
