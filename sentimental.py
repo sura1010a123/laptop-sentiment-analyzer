@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 # ==========================
 # Load trained model
 # ==========================
-model = load_model("bilstm_absa_model.h5")
+model = load_model("bilstm_absa_model.h5", compile=False)
 
 # ==========================
 # Load tokenizer
