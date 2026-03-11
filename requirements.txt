@@ -5,7 +5,7 @@ scikit-learn==1.4.2
 nltk==3.8.1
 torch --index-url https://download.pytorch.org/whl/cpu
 transformers==4.38.2
-tensorflow==2.15.0
+tensorflow==2.10.1
 
 
 
